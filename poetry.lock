@@ -420,7 +420,7 @@ python-versions = ">=3.8,<4.0"
 alembic = ">=1.6.5,<2.0.0"
 amundsen-databuilder = {version = ">=6,<7", extras = ["athena", "bigquery", "glue", "rds", "snowflake"]}
 click = "*"
-psycopg2 = ">=2.9.1,<3.0.0"
+psycopg2-binary = ">=2.9.1,<3.0.0"
 PyYAML = "*"
 snowflake-sqlalchemy = "1.2.4"
 
